@@ -15,3 +15,4 @@ Luego en la consola correr 'npx react-native run-android' y esperar
 ## Depuracion en simulador de android studio
 Para depurar en un simulador debemos abrir android studio, luego damos click en dispositivos virtuales, y creamos uno nuevo. Luego vamos a la consola instalamos react-native de manera global con npm y corremos el comando npx react-native run-android, el solo hara que en el simulador android se corra la aplicacion
 
+- Alejandro Mora
